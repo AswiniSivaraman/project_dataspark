@@ -1,0 +1,14 @@
+country,currency_code,total_sales_usd
+Australia,AUD,1492986.51
+Canada,CAD,2857854.69
+France,EUR,995000.99
+Germany,EUR,3168578.86
+Italy,EUR,1560994.38
+Netherlands,EUR,1283531.19
+Online,AUD,481760.02
+Online,CAD,822581.93
+Online,EUR,1718035.79
+Online,GBP,997352.70
+Online,USD,4921400.87
+"United Kingdom",GBP,4554333.65
+"United States",USD,18357917.59

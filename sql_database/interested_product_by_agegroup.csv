@@ -1,0 +1,225 @@
+category,subcategory,age_group,interest_count
+Audio,"Bluetooth Headphones",18-24,183
+Audio,"Bluetooth Headphones",25-34,675
+Audio,"Bluetooth Headphones",35-44,611
+Audio,"Bluetooth Headphones",45-54,658
+Audio,"Bluetooth Headphones",55-64,616
+Audio,"Bluetooth Headphones",65-84,1292
+Audio,"Bluetooth Headphones",85+,292
+Audio,MP4&MP3,18-24,44
+Audio,MP4&MP3,25-34,172
+Audio,MP4&MP3,35-44,149
+Audio,MP4&MP3,45-54,157
+Audio,MP4&MP3,55-64,139
+Audio,MP4&MP3,65-84,314
+Audio,MP4&MP3,85+,77
+Audio,"Recording Pen",18-24,85
+Audio,"Recording Pen",25-34,321
+Audio,"Recording Pen",35-44,311
+Audio,"Recording Pen",45-54,309
+Audio,"Recording Pen",55-64,338
+Audio,"Recording Pen",65-84,611
+Audio,"Recording Pen",85+,135
+"Cameras and camcorders",Camcorders,18-24,64
+"Cameras and camcorders",Camcorders,25-34,228
+"Cameras and camcorders",Camcorders,35-44,203
+"Cameras and camcorders",Camcorders,45-54,196
+"Cameras and camcorders",Camcorders,55-64,230
+"Cameras and camcorders",Camcorders,65-84,390
+"Cameras and camcorders",Camcorders,85+,92
+"Cameras and camcorders","Cameras & Camcorders Accessories",18-24,45
+"Cameras and camcorders","Cameras & Camcorders Accessories",25-34,224
+"Cameras and camcorders","Cameras & Camcorders Accessories",35-44,218
+"Cameras and camcorders","Cameras & Camcorders Accessories",45-54,197
+"Cameras and camcorders","Cameras & Camcorders Accessories",55-64,229
+"Cameras and camcorders","Cameras & Camcorders Accessories",65-84,426
+"Cameras and camcorders","Cameras & Camcorders Accessories",85+,84
+"Cameras and camcorders","Digital Cameras",18-24,63
+"Cameras and camcorders","Digital Cameras",25-34,198
+"Cameras and camcorders","Digital Cameras",35-44,228
+"Cameras and camcorders","Digital Cameras",45-54,177
+"Cameras and camcorders","Digital Cameras",55-64,226
+"Cameras and camcorders","Digital Cameras",65-84,421
+"Cameras and camcorders","Digital Cameras",85+,83
+"Cameras and camcorders","Digital SLR Cameras",18-24,60
+"Cameras and camcorders","Digital SLR Cameras",25-34,187
+"Cameras and camcorders","Digital SLR Cameras",35-44,213
+"Cameras and camcorders","Digital SLR Cameras",45-54,184
+"Cameras and camcorders","Digital SLR Cameras",55-64,193
+"Cameras and camcorders","Digital SLR Cameras",65-84,413
+"Cameras and camcorders","Digital SLR Cameras",85+,87
+"Cell phones","Cell phones Accessories",18-24,70
+"Cell phones","Cell phones Accessories",25-34,269
+"Cell phones","Cell phones Accessories",35-44,255
+"Cell phones","Cell phones Accessories",45-54,262
+"Cell phones","Cell phones Accessories",55-64,259
+"Cell phones","Cell phones Accessories",65-84,490
+"Cell phones","Cell phones Accessories",85+,108
+"Cell phones","Home & Office Phones",18-24,66
+"Cell phones","Home & Office Phones",25-34,273
+"Cell phones","Home & Office Phones",35-44,262
+"Cell phones","Home & Office Phones",45-54,249
+"Cell phones","Home & Office Phones",55-64,249
+"Cell phones","Home & Office Phones",65-84,536
+"Cell phones","Home & Office Phones",85+,117
+"Cell phones","Smart phones & PDAs",18-24,155
+"Cell phones","Smart phones & PDAs",25-34,486
+"Cell phones","Smart phones & PDAs",35-44,502
+"Cell phones","Smart phones & PDAs",45-54,477
+"Cell phones","Smart phones & PDAs",55-64,537
+"Cell phones","Smart phones & PDAs",65-84,933
+"Cell phones","Smart phones & PDAs",85+,212
+"Cell phones","Touch Screen Phones",18-24,143
+"Cell phones","Touch Screen Phones",25-34,514
+"Cell phones","Touch Screen Phones",35-44,475
+"Cell phones","Touch Screen Phones",45-54,499
+"Cell phones","Touch Screen Phones",55-64,469
+"Cell phones","Touch Screen Phones",65-84,1081
+"Cell phones","Touch Screen Phones",85+,210
+Computers,"Computers Accessories",18-24,69
+Computers,"Computers Accessories",25-34,256
+Computers,"Computers Accessories",35-44,225
+Computers,"Computers Accessories",45-54,204
+Computers,"Computers Accessories",55-64,228
+Computers,"Computers Accessories",65-84,454
+Computers,"Computers Accessories",85+,90
+Computers,Desktops,18-24,278
+Computers,Desktops,25-34,968
+Computers,Desktops,35-44,960
+Computers,Desktops,45-54,920
+Computers,Desktops,55-64,976
+Computers,Desktops,65-84,1922
+Computers,Desktops,85+,423
+Computers,Laptops,18-24,72
+Computers,Laptops,25-34,229
+Computers,Laptops,35-44,246
+Computers,Laptops,45-54,224
+Computers,Laptops,55-64,238
+Computers,Laptops,65-84,478
+Computers,Laptops,85+,113
+Computers,Monitors,18-24,54
+Computers,Monitors,25-34,210
+Computers,Monitors,35-44,230
+Computers,Monitors,45-54,201
+Computers,Monitors,55-64,232
+Computers,Monitors,65-84,446
+Computers,Monitors,85+,107
+Computers,"Printers, Scanners & Fax",18-24,57
+Computers,"Printers, Scanners & Fax",25-34,194
+Computers,"Printers, Scanners & Fax",35-44,227
+Computers,"Printers, Scanners & Fax",45-54,207
+Computers,"Printers, Scanners & Fax",55-64,221
+Computers,"Printers, Scanners & Fax",65-84,446
+Computers,"Printers, Scanners & Fax",85+,115
+Computers,"Projectors & Screens",18-24,55
+Computers,"Projectors & Screens",25-34,243
+Computers,"Projectors & Screens",35-44,219
+Computers,"Projectors & Screens",45-54,205
+Computers,"Projectors & Screens",55-64,234
+Computers,"Projectors & Screens",65-84,437
+Computers,"Projectors & Screens",85+,112
+"Games and Toys","Boxed Games",18-24,144
+"Games and Toys","Boxed Games",25-34,521
+"Games and Toys","Boxed Games",35-44,545
+"Games and Toys","Boxed Games",45-54,497
+"Games and Toys","Boxed Games",55-64,548
+"Games and Toys","Boxed Games",65-84,989
+"Games and Toys","Boxed Games",85+,211
+"Games and Toys","Download Games",18-24,161
+"Games and Toys","Download Games",25-34,525
+"Games and Toys","Download Games",35-44,545
+"Games and Toys","Download Games",45-54,519
+"Games and Toys","Download Games",55-64,565
+"Games and Toys","Download Games",65-84,1053
+"Games and Toys","Download Games",85+,238
+"Home Appliances","Air Conditioners",18-24,18
+"Home Appliances","Air Conditioners",25-34,52
+"Home Appliances","Air Conditioners",35-44,46
+"Home Appliances","Air Conditioners",45-54,47
+"Home Appliances","Air Conditioners",55-64,46
+"Home Appliances","Air Conditioners",65-84,73
+"Home Appliances","Air Conditioners",85+,30
+"Home Appliances","Coffee Machines",18-24,34
+"Home Appliances","Coffee Machines",25-34,128
+"Home Appliances","Coffee Machines",35-44,109
+"Home Appliances","Coffee Machines",45-54,103
+"Home Appliances","Coffee Machines",55-64,97
+"Home Appliances","Coffee Machines",65-84,213
+"Home Appliances","Coffee Machines",85+,40
+"Home Appliances",Fans,18-24,20
+"Home Appliances",Fans,25-34,58
+"Home Appliances",Fans,35-44,53
+"Home Appliances",Fans,45-54,54
+"Home Appliances",Fans,55-64,61
+"Home Appliances",Fans,65-84,89
+"Home Appliances",Fans,85+,40
+"Home Appliances",Lamps,18-24,17
+"Home Appliances",Lamps,25-34,56
+"Home Appliances",Lamps,35-44,57
+"Home Appliances",Lamps,45-54,59
+"Home Appliances",Lamps,55-64,56
+"Home Appliances",Lamps,65-84,95
+"Home Appliances",Lamps,85+,30
+"Home Appliances",Microwaves,18-24,66
+"Home Appliances",Microwaves,25-34,225
+"Home Appliances",Microwaves,35-44,233
+"Home Appliances",Microwaves,45-54,230
+"Home Appliances",Microwaves,55-64,244
+"Home Appliances",Microwaves,65-84,440
+"Home Appliances",Microwaves,85+,90
+"Home Appliances",Refrigerators,18-24,30
+"Home Appliances",Refrigerators,25-34,112
+"Home Appliances",Refrigerators,35-44,96
+"Home Appliances",Refrigerators,45-54,124
+"Home Appliances",Refrigerators,55-64,113
+"Home Appliances",Refrigerators,65-84,194
+"Home Appliances",Refrigerators,85+,50
+"Home Appliances","Washers & Dryers",18-24,11
+"Home Appliances","Washers & Dryers",25-34,56
+"Home Appliances","Washers & Dryers",35-44,55
+"Home Appliances","Washers & Dryers",45-54,56
+"Home Appliances","Washers & Dryers",55-64,49
+"Home Appliances","Washers & Dryers",65-84,105
+"Home Appliances","Washers & Dryers",85+,20
+"Home Appliances","Water Heaters",18-24,62
+"Home Appliances","Water Heaters",25-34,214
+"Home Appliances","Water Heaters",35-44,225
+"Home Appliances","Water Heaters",45-54,209
+"Home Appliances","Water Heaters",55-64,226
+"Home Appliances","Water Heaters",65-84,455
+"Home Appliances","Water Heaters",85+,94
+"Music, Movies and Audio Books","Movie DVD",18-24,397
+"Music, Movies and Audio Books","Movie DVD",25-34,1360
+"Music, Movies and Audio Books","Movie DVD",35-44,1368
+"Music, Movies and Audio Books","Movie DVD",45-54,1321
+"Music, Movies and Audio Books","Movie DVD",55-64,1413
+"Music, Movies and Audio Books","Movie DVD",65-84,2703
+"Music, Movies and Audio Books","Movie DVD",85+,607
+"TV and Video","Car Video",18-24,15
+"TV and Video","Car Video",25-34,75
+"TV and Video","Car Video",35-44,61
+"TV and Video","Car Video",45-54,66
+"TV and Video","Car Video",55-64,64
+"TV and Video","Car Video",65-84,126
+"TV and Video","Car Video",85+,26
+"TV and Video","Home Theater System",18-24,13
+"TV and Video","Home Theater System",25-34,72
+"TV and Video","Home Theater System",35-44,67
+"TV and Video","Home Theater System",45-54,64
+"TV and Video","Home Theater System",55-64,56
+"TV and Video","Home Theater System",65-84,126
+"TV and Video","Home Theater System",85+,34
+"TV and Video",Televisions,18-24,58
+"TV and Video",Televisions,25-34,285
+"TV and Video",Televisions,35-44,259
+"TV and Video",Televisions,45-54,284
+"TV and Video",Televisions,55-64,259
+"TV and Video",Televisions,65-84,514
+"TV and Video",Televisions,85+,136
+"TV and Video","VCD & DVD",18-24,45
+"TV and Video","VCD & DVD",25-34,136
+"TV and Video","VCD & DVD",35-44,132
+"TV and Video","VCD & DVD",45-54,123
+"TV and Video","VCD & DVD",55-64,122
+"TV and Video","VCD & DVD",65-84,271
+"TV and Video","VCD & DVD",85+,69

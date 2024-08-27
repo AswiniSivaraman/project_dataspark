@@ -1,0 +1,59 @@
+store_key,state,country,square_meters,total_sales_usd
+0,Online,Online,0,8960954.30742532
+1,"Australian Capital Territory",Australia,595,244817.8837208151
+2,"Northern Territory",Australia,665,12830.009947389364
+4,Tasmania,Australia,2000,380395.2696715903
+5,Victoria,Australia,2000,838774.8224236384
+6,"Western Australia",Australia,2000,604649.0108653388
+8,"Newfoundland and Labrador",Canada,2105,1263390.4333740245
+9,"Northwest Territories",Canada,1500,1398253.8155089058
+10,Nunavut,Canada,1210,1101718.1392278254
+12,Basse-Normandie,France,350,133203.87392887054
+13,Corse,France,245,109934.86435138465
+14,Franche-ComtÃ©,France,350,81076.35516839863
+15,"La RÃ©union",France,400,148497.90511097675
+16,Limousin,France,385,132175.81390569147
+17,Martinique,France,350,121589.66559997745
+18,Mayotte,France,310,151905.17915782565
+19,Berlin,Germany,1295,389482.4962656789
+20,Brandenburg,Germany,1715,247318.18667242525
+21,"Freie Hansestadt Bremen",Germany,560,271327.4378272027
+22,"Freistaat ThÃ¼ringen",Germany,2000,454814.64044982457
+23,Hamburg,Germany,1365,407681.8867302998
+24,Hessen,Germany,1855,415567.5386827332
+26,Saarland,Germany,350,207959.65055088577
+27,Sachsen-Anhalt,Germany,2000,403290.9849212104
+28,Caltanissetta,Italy,1200,143141.35035490335
+29,Enna,Italy,1000,607022.6845320608
+30,Pesaro,Italy,2100,630708.088090722
+31,Drenthe,Netherlands,1085,271132.6312578345
+32,Flevoland,Netherlands,910,290876.4420459913
+33,Friesland,Netherlands,1540,282609.0483881964
+34,Groningen,Netherlands,1365,287049.71995455923
+36,Armagh,"United Kingdom",1300,553326.196940611
+37,Ayrshire,"United Kingdom",2100,513156.3111723749
+38,Belfast,"United Kingdom",1800,562086.8474660553
+39,"Blaenau Gwent","United Kingdom",2100,522952.1013124068
+40,"Dungannon and South Tyrone","United Kingdom",1300,567553.9037496169
+41,Fermanagh,"United Kingdom",2100,227729.40579298564
+42,"North Down","United Kingdom",1900,555526.82112384
+43,Alaska,"United States",1190,928876.4499999969
+44,Arkansas,"United States",2000,940862.6499999962
+45,Connecticut,"United States",2000,1080364.0699999977
+47,Hawaii,"United States",1120,908256.729999997
+48,Idaho,"United States",1540,847302.979999998
+49,Iowa,"United States",2000,761488.6999999986
+50,Kansas,"United States",2000,1058325.4299999978
+51,Maine,"United States",1295,937169.3599999979
+53,Montana,"United States",1260,869709.2599999965
+54,Nebraska,"United States",2000,1074717.8199999973
+55,Nevada,"United States",2000,1056804.4599999976
+56,"New Hampshire","United States",1260,916494.6799999983
+57,"New Mexico","United States",1645,966825.2399999977
+59,Oregon,"United States",2000,976799.8099999978
+61,"South Carolina","United States",2000,996910.359999998
+62,"South Dakota","United States",1120,509374.45999999973
+63,Utah,"United States",2000,627175.7099999994
+64,"Washington DC","United States",1330,950318.5599999978
+65,"West Virginia","United States",1785,1019252.7999999967
+66,Wyoming,"United States",840,930888.0599999973

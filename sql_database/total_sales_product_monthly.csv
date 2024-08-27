@@ -1,0 +1,497 @@
+year,month,category,total_sales
+2016,April,Audio,10231.24
+2016,April,"Cameras and camcorders",22130.59
+2016,April,"Cell phones",3600.93
+2016,April,Computers,19753.70
+2016,April,"Games and Toys",337.86
+2016,April,"Home Appliances",13392.05
+2016,April,"Music, Movies and Audio Books",3387.45
+2016,April,"TV and Video",5660.98
+2016,August,Audio,27111.33
+2016,August,"Cameras and camcorders",54710.71
+2016,August,"Cell phones",29557.17
+2016,August,Computers,112615.10
+2016,August,"Games and Toys",3826.40
+2016,August,"Home Appliances",63846.39
+2016,August,"Music, Movies and Audio Books",31755.92
+2016,August,"TV and Video",44012.31
+2016,December,Audio,50553.12
+2016,December,"Cameras and camcorders",89986.27
+2016,December,"Cell phones",75583.93
+2016,December,Computers,220103.93
+2016,December,"Games and Toys",5508.74
+2016,December,"Home Appliances",137725.85
+2016,December,"Music, Movies and Audio Books",61473.87
+2016,December,"TV and Video",82429.70
+2016,February,Audio,34591.03
+2016,February,"Cameras and camcorders",101558.79
+2016,February,"Cell phones",51498.78
+2016,February,Computers,152154.03
+2016,February,"Games and Toys",6306.60
+2016,February,"Home Appliances",108033.07
+2016,February,"Music, Movies and Audio Books",41312.54
+2016,February,"TV and Video",60089.03
+2016,January,Audio,27017.21
+2016,January,"Cameras and camcorders",89200.60
+2016,January,"Cell phones",26306.80
+2016,January,Computers,76360.46
+2016,January,"Games and Toys",6551.56
+2016,January,"Home Appliances",98613.27
+2016,January,"Music, Movies and Audio Books",51278.14
+2016,January,"TV and Video",68852.16
+2016,July,Audio,34912.62
+2016,July,"Cameras and camcorders",47188.50
+2016,July,"Cell phones",33223.45
+2016,July,Computers,81876.44
+2016,July,"Games and Toys",4707.52
+2016,July,"Home Appliances",60891.26
+2016,July,"Music, Movies and Audio Books",30194.48
+2016,July,"TV and Video",48263.77
+2016,June,Audio,27456.55
+2016,June,"Cameras and camcorders",71017.53
+2016,June,"Cell phones",32979.13
+2016,June,Computers,92634.65
+2016,June,"Games and Toys",5660.81
+2016,June,"Home Appliances",102752.72
+2016,June,"Music, Movies and Audio Books",33521.27
+2016,June,"TV and Video",53416.78
+2016,March,Audio,20320.21
+2016,March,"Cameras and camcorders",57244.01
+2016,March,"Cell phones",10901.73
+2016,March,Computers,23085.15
+2016,March,"Games and Toys",2672.22
+2016,March,"Home Appliances",49587.91
+2016,March,"Music, Movies and Audio Books",14463.36
+2016,March,"TV and Video",17695.66
+2016,May,Audio,14062.30
+2016,May,"Cameras and camcorders",59819.73
+2016,May,"Cell phones",42947.33
+2016,May,Computers,100884.00
+2016,May,"Games and Toys",3528.67
+2016,May,"Home Appliances",75114.13
+2016,May,"Music, Movies and Audio Books",26518.98
+2016,May,"TV and Video",44674.63
+2016,November,Audio,33826.42
+2016,November,"Cameras and camcorders",60538.84
+2016,November,"Cell phones",46816.69
+2016,November,Computers,129457.05
+2016,November,"Games and Toys",4693.83
+2016,November,"Home Appliances",87121.91
+2016,November,"Music, Movies and Audio Books",29446.56
+2016,November,"TV and Video",32202.39
+2016,October,Audio,30518.15
+2016,October,"Cameras and camcorders",69256.60
+2016,October,"Cell phones",34335.54
+2016,October,Computers,96882.78
+2016,October,"Games and Toys",5342.88
+2016,October,"Home Appliances",117078.32
+2016,October,"Music, Movies and Audio Books",44348.00
+2016,October,"TV and Video",59540.49
+2016,September,Audio,28747.58
+2016,September,"Cameras and camcorders",54583.84
+2016,September,"Cell phones",41745.79
+2016,September,Computers,126714.04
+2016,September,"Games and Toys",3392.50
+2016,September,"Home Appliances",81824.30
+2016,September,"Music, Movies and Audio Books",37865.81
+2016,September,"TV and Video",44347.76
+2017,April,Audio,2431.50
+2017,April,"Cameras and camcorders",1992.00
+2017,April,"Cell phones",8223.00
+2017,April,Computers,4973.00
+2017,April,"Games and Toys",313.04
+2017,April,"Home Appliances",2972.40
+2017,April,"Music, Movies and Audio Books",4603.83
+2017,April,"TV and Video",5481.76
+2017,August,Audio,47575.30
+2017,August,"Cameras and camcorders",47622.74
+2017,August,"Cell phones",52152.32
+2017,August,Computers,113239.27
+2017,August,"Games and Toys",4963.06
+2017,August,"Home Appliances",97446.52
+2017,August,"Music, Movies and Audio Books",38264.60
+2017,August,"TV and Video",35726.21
+2017,December,Audio,95557.90
+2017,December,"Cameras and camcorders",84956.72
+2017,December,"Cell phones",126212.06
+2017,December,Computers,368276.12
+2017,December,"Games and Toys",9231.81
+2017,December,"Home Appliances",153460.62
+2017,December,"Music, Movies and Audio Books",71399.13
+2017,December,"TV and Video",43185.38
+2017,February,Audio,43998.05
+2017,February,"Cameras and camcorders",67108.94
+2017,February,"Cell phones",48747.31
+2017,February,Computers,170251.85
+2017,February,"Games and Toys",5768.90
+2017,February,"Home Appliances",145329.12
+2017,February,"Music, Movies and Audio Books",40010.84
+2017,February,"TV and Video",62806.42
+2017,January,Audio,37228.99
+2017,January,"Cameras and camcorders",70242.26
+2017,January,"Cell phones",52783.03
+2017,January,Computers,155915.68
+2017,January,"Games and Toys",5541.86
+2017,January,"Home Appliances",105291.76
+2017,January,"Music, Movies and Audio Books",34995.23
+2017,January,"TV and Video",41984.72
+2017,July,Audio,22038.38
+2017,July,"Cameras and camcorders",27214.13
+2017,July,"Cell phones",46956.00
+2017,July,Computers,130770.53
+2017,July,"Games and Toys",3980.32
+2017,July,"Home Appliances",99472.75
+2017,July,"Music, Movies and Audio Books",29363.04
+2017,July,"TV and Video",26537.54
+2017,June,Audio,34496.57
+2017,June,"Cameras and camcorders",46279.01
+2017,June,"Cell phones",49286.86
+2017,June,Computers,164553.25
+2017,June,"Games and Toys",3609.77
+2017,June,"Home Appliances",101445.74
+2017,June,"Music, Movies and Audio Books",30772.40
+2017,June,"TV and Video",20400.27
+2017,March,Audio,17308.68
+2017,March,"Cameras and camcorders",23586.85
+2017,March,"Cell phones",26494.43
+2017,March,Computers,81870.43
+2017,March,"Games and Toys",3665.01
+2017,March,"Home Appliances",66965.10
+2017,March,"Music, Movies and Audio Books",24197.24
+2017,March,"TV and Video",9914.97
+2017,May,Audio,36540.82
+2017,May,"Cameras and camcorders",42968.23
+2017,May,"Cell phones",53392.65
+2017,May,Computers,167713.69
+2017,May,"Games and Toys",4206.08
+2017,May,"Home Appliances",94648.31
+2017,May,"Music, Movies and Audio Books",23870.95
+2017,May,"TV and Video",49694.01
+2017,November,Audio,56784.97
+2017,November,"Cameras and camcorders",36865.87
+2017,November,"Cell phones",64579.38
+2017,November,Computers,199326.09
+2017,November,"Games and Toys",4459.64
+2017,November,"Home Appliances",104281.46
+2017,November,"Music, Movies and Audio Books",32949.04
+2017,November,"TV and Video",40535.31
+2017,October,Audio,37934.19
+2017,October,"Cameras and camcorders",42472.62
+2017,October,"Cell phones",66813.74
+2017,October,Computers,196745.42
+2017,October,"Games and Toys",9893.82
+2017,October,"Home Appliances",102121.25
+2017,October,"Music, Movies and Audio Books",39164.97
+2017,October,"TV and Video",25204.61
+2017,September,Audio,40152.60
+2017,September,"Cameras and camcorders",48737.01
+2017,September,"Cell phones",57770.10
+2017,September,Computers,180406.58
+2017,September,"Games and Toys",7948.55
+2017,September,"Home Appliances",131967.42
+2017,September,"Music, Movies and Audio Books",27841.30
+2017,September,"TV and Video",28402.78
+2018,April,Audio,4543.06
+2018,April,"Cameras and camcorders",5170.00
+2018,April,"Cell phones",6201.16
+2018,April,Computers,14001.90
+2018,April,"Games and Toys",707.01
+2018,April,"Home Appliances",18116.01
+2018,April,"Music, Movies and Audio Books",5501.62
+2018,April,"TV and Video",2473.78
+2018,August,Audio,69273.71
+2018,August,"Cameras and camcorders",75961.83
+2018,August,"Cell phones",108396.88
+2018,August,Computers,322362.51
+2018,August,"Games and Toys",14679.99
+2018,August,"Home Appliances",124085.66
+2018,August,"Music, Movies and Audio Books",50468.37
+2018,August,"TV and Video",42421.60
+2018,December,Audio,135050.11
+2018,December,"Cameras and camcorders",225946.31
+2018,December,"Cell phones",225830.38
+2018,December,Computers,668128.15
+2018,December,"Games and Toys",30922.58
+2018,December,"Home Appliances",215298.71
+2018,December,"Music, Movies and Audio Books",118503.87
+2018,December,"TV and Video",77846.31
+2018,February,Audio,74434.42
+2018,February,"Cameras and camcorders",89966.89
+2018,February,"Cell phones",101113.95
+2018,February,Computers,333578.23
+2018,February,"Games and Toys",12141.74
+2018,February,"Home Appliances",180426.64
+2018,February,"Music, Movies and Audio Books",73331.86
+2018,February,"TV and Video",86445.65
+2018,January,Audio,64024.79
+2018,January,"Cameras and camcorders",69196.70
+2018,January,"Cell phones",96060.82
+2018,January,Computers,220188.02
+2018,January,"Games and Toys",6699.38
+2018,January,"Home Appliances",121979.26
+2018,January,"Music, Movies and Audio Books",49606.51
+2018,January,"TV and Video",61463.35
+2018,July,Audio,52174.79
+2018,July,"Cameras and camcorders",78613.95
+2018,July,"Cell phones",87241.85
+2018,July,Computers,275316.96
+2018,July,"Games and Toys",10714.25
+2018,July,"Home Appliances",126213.84
+2018,July,"Music, Movies and Audio Books",51686.53
+2018,July,"TV and Video",63718.33
+2018,June,Audio,60966.84
+2018,June,"Cameras and camcorders",57142.36
+2018,June,"Cell phones",141751.25
+2018,June,Computers,337044.56
+2018,June,"Games and Toys",10806.73
+2018,June,"Home Appliances",103791.73
+2018,June,"Music, Movies and Audio Books",56979.89
+2018,June,"TV and Video",34334.82
+2018,March,Audio,25860.70
+2018,March,"Cameras and camcorders",27359.85
+2018,March,"Cell phones",34962.36
+2018,March,Computers,133076.30
+2018,March,"Games and Toys",3887.92
+2018,March,"Home Appliances",44183.81
+2018,March,"Music, Movies and Audio Books",12399.47
+2018,March,"TV and Video",19046.62
+2018,May,Audio,66347.49
+2018,May,"Cameras and camcorders",86062.58
+2018,May,"Cell phones",128611.50
+2018,May,Computers,278539.18
+2018,May,"Games and Toys",9734.37
+2018,May,"Home Appliances",151958.51
+2018,May,"Music, Movies and Audio Books",56190.79
+2018,May,"TV and Video",39300.03
+2018,November,Audio,78026.84
+2018,November,"Cameras and camcorders",120432.43
+2018,November,"Cell phones",153761.37
+2018,November,Computers,404276.62
+2018,November,"Games and Toys",16621.23
+2018,November,"Home Appliances",158259.57
+2018,November,"Music, Movies and Audio Books",70845.75
+2018,November,"TV and Video",48349.30
+2018,October,Audio,80154.83
+2018,October,"Cameras and camcorders",104604.87
+2018,October,"Cell phones",156945.73
+2018,October,Computers,440121.68
+2018,October,"Games and Toys",15062.89
+2018,October,"Home Appliances",115507.80
+2018,October,"Music, Movies and Audio Books",73574.24
+2018,October,"TV and Video",58010.57
+2018,September,Audio,87154.23
+2018,September,"Cameras and camcorders",71772.86
+2018,September,"Cell phones",131868.32
+2018,September,Computers,338298.85
+2018,September,"Games and Toys",11752.27
+2018,September,"Home Appliances",161207.72
+2018,September,"Music, Movies and Audio Books",66061.96
+2018,September,"TV and Video",41572.24
+2019,April,Audio,6206.84
+2019,April,"Cameras and camcorders",23401.36
+2019,April,"Cell phones",29781.15
+2019,April,Computers,49357.85
+2019,April,"Games and Toys",1720.47
+2019,April,"Home Appliances",6509.04
+2019,April,"Music, Movies and Audio Books",5521.22
+2019,April,"TV and Video",8421.93
+2019,August,Audio,92784.51
+2019,August,"Cameras and camcorders",166624.39
+2019,August,"Cell phones",179017.69
+2019,August,Computers,528422.28
+2019,August,"Games and Toys",22236.11
+2019,August,"Home Appliances",106060.39
+2019,August,"Music, Movies and Audio Books",82757.65
+2019,August,"TV and Video",58042.58
+2019,December,Audio,126163.40
+2019,December,"Cameras and camcorders",283997.19
+2019,December,"Cell phones",324111.84
+2019,December,Computers,758330.83
+2019,December,"Games and Toys",36340.42
+2019,December,"Home Appliances",186679.72
+2019,December,"Music, Movies and Audio Books",147994.41
+2019,December,"TV and Video",128356.87
+2019,February,Audio,121126.05
+2019,February,"Cameras and camcorders",201170.98
+2019,February,"Cell phones",256189.13
+2019,February,Computers,689931.06
+2019,February,"Games and Toys",28602.72
+2019,February,"Home Appliances",173418.94
+2019,February,"Music, Movies and Audio Books",92292.47
+2019,February,"TV and Video",72432.06
+2019,January,Audio,122689.66
+2019,January,"Cameras and camcorders",158963.42
+2019,January,"Cell phones",256307.47
+2019,January,Computers,583997.89
+2019,January,"Games and Toys",26546.27
+2019,January,"Home Appliances",234406.01
+2019,January,"Music, Movies and Audio Books",108421.38
+2019,January,"TV and Video",62255.04
+2019,July,Audio,87873.51
+2019,July,"Cameras and camcorders",130533.63
+2019,July,"Cell phones",168113.46
+2019,July,Computers,486868.85
+2019,July,"Games and Toys",31409.36
+2019,July,"Home Appliances",123405.49
+2019,July,"Music, Movies and Audio Books",67306.88
+2019,July,"TV and Video",61517.11
+2019,June,Audio,77402.34
+2019,June,"Cameras and camcorders",170032.55
+2019,June,"Cell phones",168621.27
+2019,June,Computers,480523.53
+2019,June,"Games and Toys",25682.65
+2019,June,"Home Appliances",108198.00
+2019,June,"Music, Movies and Audio Books",92215.21
+2019,June,"TV and Video",44707.69
+2019,March,Audio,53203.92
+2019,March,"Cameras and camcorders",70644.91
+2019,March,"Cell phones",92816.66
+2019,March,Computers,222757.79
+2019,March,"Games and Toys",11824.01
+2019,March,"Home Appliances",110752.82
+2019,March,"Music, Movies and Audio Books",45010.00
+2019,March,"TV and Video",20291.67
+2019,May,Audio,95948.34
+2019,May,"Cameras and camcorders",151562.43
+2019,May,"Cell phones",237868.18
+2019,May,Computers,510947.15
+2019,May,"Games and Toys",24906.44
+2019,May,"Home Appliances",134134.05
+2019,May,"Music, Movies and Audio Books",78552.79
+2019,May,"TV and Video",66936.56
+2019,November,Audio,99421.21
+2019,November,"Cameras and camcorders",141240.67
+2019,November,"Cell phones",222426.49
+2019,November,Computers,544373.32
+2019,November,"Games and Toys",27251.35
+2019,November,"Home Appliances",131689.86
+2019,November,"Music, Movies and Audio Books",92449.11
+2019,November,"TV and Video",55174.37
+2019,October,Audio,86344.75
+2019,October,"Cameras and camcorders",188454.72
+2019,October,"Cell phones",196541.14
+2019,October,Computers,510074.53
+2019,October,"Games and Toys",34294.45
+2019,October,"Home Appliances",102743.01
+2019,October,"Music, Movies and Audio Books",98024.95
+2019,October,"TV and Video",82476.64
+2019,September,Audio,95033.24
+2019,September,"Cameras and camcorders",203748.72
+2019,September,"Cell phones",180163.25
+2019,September,Computers,511607.81
+2019,September,"Games and Toys",24829.06
+2019,September,"Home Appliances",72987.63
+2019,September,"Music, Movies and Audio Books",98425.38
+2019,September,"TV and Video",57486.78
+2020,April,Audio,8404.51
+2020,April,"Cameras and camcorders",33243.20
+2020,April,"Cell phones",30755.94
+2020,April,Computers,43448.84
+2020,April,"Games and Toys",2421.44
+2020,April,"Home Appliances",24083.25
+2020,April,"Music, Movies and Audio Books",11582.16
+2020,April,"TV and Video",12177.42
+2020,August,Audio,21831.00
+2020,August,"Cameras and camcorders",44880.11
+2020,August,"Cell phones",42470.33
+2020,August,Computers,152018.97
+2020,August,"Games and Toys",6035.38
+2020,August,"Home Appliances",13007.80
+2020,August,"Music, Movies and Audio Books",25517.57
+2020,August,"TV and Video",15830.16
+2020,December,Audio,23370.12
+2020,December,"Cameras and camcorders",45973.20
+2020,December,"Cell phones",77196.47
+2020,December,Computers,234092.42
+2020,December,"Games and Toys",8514.91
+2020,December,"Home Appliances",39033.37
+2020,December,"Music, Movies and Audio Books",58128.35
+2020,December,"TV and Video",20719.89
+2020,February,Audio,125503.09
+2020,February,"Cameras and camcorders",184866.02
+2020,February,"Cell phones",283228.59
+2020,February,Computers,717437.86
+2020,February,"Games and Toys",42479.24
+2020,February,"Home Appliances",148957.64
+2020,February,"Music, Movies and Audio Books",130080.45
+2020,February,"TV and Video",101349.14
+2020,January,Audio,121658.03
+2020,January,"Cameras and camcorders",252043.03
+2020,January,"Cell phones",272168.39
+2020,January,Computers,647076.78
+2020,January,"Games and Toys",34363.88
+2020,January,"Home Appliances",157048.40
+2020,January,"Music, Movies and Audio Books",120594.33
+2020,January,"TV and Video",108897.27
+2020,July,Audio,16690.26
+2020,July,"Cameras and camcorders",54699.49
+2020,July,"Cell phones",75854.11
+2020,July,Computers,137384.97
+2020,July,"Games and Toys",7619.76
+2020,July,"Home Appliances",18734.62
+2020,July,"Music, Movies and Audio Books",37392.72
+2020,July,"TV and Video",46047.84
+2020,June,Audio,34878.62
+2020,June,"Cameras and camcorders",60693.35
+2020,June,"Cell phones",122495.13
+2020,June,Computers,224215.95
+2020,June,"Games and Toys",11665.84
+2020,June,"Home Appliances",61757.63
+2020,June,"Music, Movies and Audio Books",31488.25
+2020,June,"TV and Video",26727.11
+2020,March,Audio,30258.41
+2020,March,"Cameras and camcorders",76637.04
+2020,March,"Cell phones",100186.25
+2020,March,Computers,222381.95
+2020,March,"Games and Toys",10180.96
+2020,March,"Home Appliances",42926.61
+2020,March,"Music, Movies and Audio Books",36196.01
+2020,March,"TV and Video",27210.54
+2020,May,Audio,35588.49
+2020,May,"Cameras and camcorders",121529.26
+2020,May,"Cell phones",116078.60
+2020,May,Computers,259524.09
+2020,May,"Games and Toys",17011.56
+2020,May,"Home Appliances",61247.31
+2020,May,"Music, Movies and Audio Books",56346.67
+2020,May,"TV and Video",39535.42
+2020,November,Audio,10225.67
+2020,November,"Cameras and camcorders",28980.57
+2020,November,"Cell phones",45375.28
+2020,November,Computers,73794.99
+2020,November,"Games and Toys",4284.68
+2020,November,"Home Appliances",22375.45
+2020,November,"Music, Movies and Audio Books",20007.41
+2020,November,"TV and Video",8707.18
+2020,October,Audio,9773.68
+2020,October,"Cameras and camcorders",31523.10
+2020,October,"Cell phones",38701.77
+2020,October,Computers,84525.62
+2020,October,"Games and Toys",4219.13
+2020,October,"Home Appliances",10628.20
+2020,October,"Music, Movies and Audio Books",17515.20
+2020,October,"TV and Video",13499.91
+2020,September,Audio,14543.67
+2020,September,"Cameras and camcorders",21605.67
+2020,September,"Cell phones",52214.87
+2020,September,Computers,121227.28
+2020,September,"Games and Toys",5392.35
+2020,September,"Home Appliances",30262.44
+2020,September,"Music, Movies and Audio Books",21630.28
+2020,September,"TV and Video",25280.28
+2021,February,Audio,21358.81
+2021,February,"Cameras and camcorders",44450.63
+2021,February,"Cell phones",91534.43
+2021,February,Computers,175007.60
+2021,February,"Games and Toys",7486.16
+2021,February,"Home Appliances",23824.26
+2021,February,"Music, Movies and Audio Books",37622.09
+2021,February,"TV and Video",35077.40
+2021,January,Audio,21938.09
+2021,January,"Cameras and camcorders",64444.36
+2021,January,"Cell phones",67919.61
+2021,January,Computers,176401.05
+2021,January,"Games and Toys",7669.02
+2021,January,"Home Appliances",23129.80
+2021,January,"Music, Movies and Audio Books",29783.69
+2021,January,"TV and Video",24774.13

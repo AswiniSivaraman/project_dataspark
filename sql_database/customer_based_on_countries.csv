@@ -1,0 +1,17 @@
+country,gender,total_customers
+Australia,Female,721
+Australia,Male,699
+Canada,Female,755
+Canada,Male,798
+France,Female,351
+France,Male,319
+Germany,Female,734
+Germany,Male,739
+Italy,Female,319
+Italy,Male,326
+Netherlands,Female,345
+Netherlands,Male,388
+"United Kingdom",Female,938
+"United Kingdom",Male,1006
+"United States",Female,3355
+"United States",Male,3473

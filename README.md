@@ -100,7 +100,7 @@ To know more about PowerPoint. Click here  https://support.microsoft.com/en- 
 
 •	Strengthened expertise in MySQL, particularly in data storage, retrieval, and management.
 
-•	Developed basic skills in Power BI, enabling the creation of impactful visualizations and dashboards.
+•	Developed basic skills in Power BI, enabling the creation of meaningful visualizations and dashboards.
 
 •	Improved the ability to craft compelling narratives around data, effectively communicating insights and recommendations.
 
